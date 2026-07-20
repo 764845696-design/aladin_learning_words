@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <rect width="180" height="180" rx="42" fill="#ffd342"/>
+  <circle cx="90" cy="90" r="61" fill="#f5b047" stroke="#91531c" stroke-width="9"/>
+  <circle cx="48" cy="42" r="23" fill="#a55d20"/>
+  <circle cx="132" cy="42" r="23" fill="#a55d20"/>
+  <ellipse cx="90" cy="102" rx="43" ry="36" fill="#ffe4aa"/>
+  <circle cx="70" cy="83" r="6" fill="#59391c"/>
+  <circle cx="110" cy="83" r="6" fill="#59391c"/>
+  <path d="M78 112 Q90 124 102 112" fill="none" stroke="#59391c" stroke-width="7" stroke-linecap="round"/>
+  <text x="90" y="161" text-anchor="middle" font-family="STKaiti, KaiTi, serif" font-size="28" font-weight="bold" fill="#91531c">阿字</text>
+</svg>

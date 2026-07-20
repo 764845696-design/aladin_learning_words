@@ -1,0 +1,12 @@
+{
+  "name": "阿拉丁的小小认字",
+  "short_name": "小小认字",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff9e8",
+  "theme_color": "#ffd342",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
