@@ -1,0 +1,1 @@
+# aladin_learning_words
